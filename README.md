@@ -1,0 +1,1 @@
+A small parallax scrolling website featuring different adventure themes like biking, paragliding, surfing, scuba diving, and hiking. It presents smooth visual sections with short descriptions to create a clean and engaging browsing experience.
